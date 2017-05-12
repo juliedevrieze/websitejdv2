@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "3rd.html",
     "versionFirst": "2.9",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -1081,7 +1081,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-11-25-om-15-2000x2887-81.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-11-25-om-15-2000x2887-2000x2887.png",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
