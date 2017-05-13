@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "3rd.html",
+    "currentPage": "overmij.html",
     "versionFirst": "2.9",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -1630,7 +1630,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">O V E R &nbsp; &nbsp;M I J</span>",
           "text": "Ik ben een 2O jarige student die Grafisch Ontwerp studeert in <br>LUCA School Of Arts te Gent.<br>Momenteel zit ik in mijn 2e jaar.<br>Ik heb een passie voor design en mode.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">Z I E &nbsp;W E R K</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">E N G L I S H</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">Z I E &nbsp;W E R K</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">E N G L I S H</a>"
         },
         {
           "_styles": {
