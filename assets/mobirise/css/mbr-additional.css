@@ -179,16 +179,38 @@
 #buttons1-u .btn {
   font-size: 9px;
 }
-#header3-36 H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #000000;
-}
-#header3-36 SPAN {
-  font-size: 30px;
-  color: #000000;
-}
 #buttons1-37 .btn {
+  font-size: 9px;
+}
+#form1-10 .mbr-header__text {
+  font-size: 30px;
+}
+
+#header1-28 .btn {
+  font-size: 9px;
+}
+#header1-28 H1 {
+  font-size: 20px;
+}
+#header1-28 P {
+  font-size: 12px;
+  color: #000000;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#header1-28 SPAN {
+  color: #000000;
+  font-size: 30px;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-0 .mbr-navbar__items a {
   font-size: 9px;
 }
 #menu-0 .mbr-brand__name {
@@ -235,33 +257,5 @@
   font-size: 9px;
 }
 #buttons1-35 .btn {
-  font-size: 9px;
-}
-
-#header1-28 .btn {
-  font-size: 9px;
-}
-#header1-28 H1 {
-  font-size: 20px;
-}
-#header1-28 P {
-  font-size: 12px;
-  color: #000000;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-}
-#header1-28 SPAN {
-  color: #000000;
-  font-size: 30px;
-}
-#menu-0 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-0 .mbr-navbar__hamburger {
-  color: #000000;
-}
-#menu-0 .mbr-navbar__items a {
   font-size: 9px;
 }
