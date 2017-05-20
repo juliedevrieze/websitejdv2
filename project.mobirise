@@ -277,7 +277,7 @@
             "showArrow": false
           },
           "title": "<span style=\"font-weight: normal;\">A B O U T<br></span>",
-          "text": "I'm a 21 year old student who studies Graphic design at <br>LUCA School Of Arts in Ghent.<br>I'm in my third year.<br>I have a passion for design and fashion.",
+          "text": "I'm a 21 years old student who studies Graphic design at <br>LUCA School Of Arts in Ghent.<br>I'm in my third year.<br>I have a passion for design and fashion.<br>If I'll graduate I will do a master year at LUCA.<br>After that I would like to do another education in &nbsp;Fashion.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">S E E &nbsp;W O R K</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"overmij.html\" data-toolbar=\"-mbrBtnMove\">N E D E R L A N D S</a> "
         },
         {
@@ -1323,7 +1323,7 @@
             "showArrow": false
           },
           "title": "<span style=\"font-weight: normal;\">O V E R &nbsp; &nbsp;M I J</span>",
-          "text": "Ik ben een 21 jarige student die Grafisch Ontwerp studeert in <br>LUCA School Of Arts te Gent.<br>Momenteel zit ik in mijn 3e jaar.<br>Ik heb een passie voor design en mode.",
+          "text": "Ik ben een 21 jarige student die Grafisch Ontwerp studeert in <br>LUCA School Of Arts te Gent.<br>Momenteel zit ik in mijn 3e jaar.<br>Ik heb een passie voor design en mode.<br>Na het behalen van mijn bachelor ga ik in LUCA nog een master jaar doen.<br>Hierna zou ik graag nog een opleiding in de mode volgen.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">Z I E &nbsp;W E R K</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">E N G L I S H</a>"
         },
         {
