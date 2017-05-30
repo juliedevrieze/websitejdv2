@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "about.html",
+    "currentPage": "posters.html",
     "versionFirst": "2.9",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -338,7 +338,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) Gucci"
+          "text": "Copyright (c) Julie De Vrieze"
         }
       ]
     },
@@ -477,6 +477,26 @@
           },
           "_anchor": "buttons1-36",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MENU</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"overmij.html\" data-toolbar=\"-mbrBtnMove\">TERUG NAAR MENU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Julie De Vrieze"
         }
       ]
     },
@@ -1192,6 +1212,26 @@
           },
           "_anchor": "buttons1-u",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MENU</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"overmij.html\" data-toolbar=\"-mbrBtnMove\">TERUG NAAR MENU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Julie De Vrieze"
         }
       ]
     },
@@ -1517,6 +1557,26 @@
           },
           "_anchor": "buttons1-34",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MENU</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"overmij.html\" data-toolbar=\"-mbrBtnMove\">TERUG NAAR MENU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Julie De Vrieze"
         }
       ]
     },
@@ -1750,6 +1810,26 @@
           },
           "_anchor": "buttons1-35",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MENU</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"overmij.html\" data-toolbar=\"-mbrBtnMove\">TERUG NAAR MENU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Julie De Vrieze"
         }
       ]
     }
